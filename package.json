@@ -1,0 +1,24 @@
+{
+  "name": "ts-expressjs-example",
+  "version": "1.0.0",
+  "description": "just an example app for express.js with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marfrede/ts-expressjs-example.git"
+  },
+  "keywords": [
+    "typescript",
+    "expressjs",
+    "example-app"
+  ],
+  "author": "marvinfrede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marfrede/ts-expressjs-example/issues"
+  },
+  "homepage": "https://github.com/marfrede/ts-expressjs-example#readme"
+}
