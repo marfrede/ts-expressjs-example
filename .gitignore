@@ -1,6 +1,9 @@
 # npm
 node_modules
 
+# compiled js files
+dist
+
 # dotenv
 .env
 

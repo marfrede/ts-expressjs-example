@@ -2,9 +2,9 @@
   "name": "ts-expressjs-example",
   "version": "1.0.0",
   "description": "just an example app for express.js with typescript",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
