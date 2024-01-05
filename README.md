@@ -6,4 +6,8 @@ just an example app for express.js with typescript
 - `git clone git@github.com:marfrede/ts-expressjs-example.git`
 - `cd ts-expressjs-example`
 - `npm i`
-- `npm run start`
+- to build and start server
+  - `npm run build`
+  - `npm run start`
+- to develop and listen on server changes
+  - `npm run dev`
